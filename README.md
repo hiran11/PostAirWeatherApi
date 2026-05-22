@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PostAir Weather API (standalone demo)
 
 This repository is a **standalone demo HTTP API** intended for use with the <a href="https://academy.postman.com/path/api-testing-path" target="_blank" rel="noopener noreferrer"><strong>API Testing learning path</strong></a> on Postman Academy (Postman’s API Testing courses). It is **designed to run on your machine** so you can send requests, write tests in Postman, and practice workflows without depending on a shared hosted environment.
@@ -92,3 +93,6 @@ The contract lives under `api-docs/` (for example `postair-openapi-3_1.yaml`). I
 
 
 
+=======
+﻿
+>>>>>>> c523257926a5f1c293a4f4d587a68d79b99c49bb
